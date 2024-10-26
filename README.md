@@ -7,7 +7,10 @@ A Simple website launch using Apache2 in the OS ubuntu in the cloud AWS
 3. Create Route table and configure route with subnet
 4. Create an public ec2 instance.
 5. Install Apache Webserver (Apache2)
+
+---
 sudo su -
 apt update
 apt install apache2
-ystemctl enable apache2
+systemctl enable apache2
+---
