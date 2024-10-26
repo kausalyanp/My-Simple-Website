@@ -27,9 +27,11 @@ systemctl status apache2
 
 ![image](https://github.com/user-attachments/assets/afad8c7d-7718-40c0-969e-fd80d1b75d48)
 
+(above image is for default index.html)
+
 ---
 Notes:
 ---
-1. Always checl for security groups if http and ssh enabled.
+1. Always check for security groups if http and ssh enabled.
 2. Ec2 instance should have public ip address
 3. File name always should be index.html or home.html
